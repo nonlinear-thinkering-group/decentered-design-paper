@@ -1,6 +1,6 @@
 # Introduction
 
-The rise of a new class of anthropogenic environmental problems such as climate change and mass extinction has been characterised by kittler et al as "super wicked problems" , an extension of the concept of "wicked problems" [^ <https://en.m.wikipedia.org/wiki/Wicked_problem> ] first proposed by rittel et. al in ...
+The rise of a new class of anthropogenic environmental problems such as climate change and mass extinction has been characterised by kittler et al as "super wicked problems" , an extension of the concept of "wicked problems" [^ <https://en.m.wikipedia.org/wiki/Wicked_problem>] first proposed by rittel et. al in ...
 
 It seems clear to us that in these cases traditional approaches to problem solving are failing, and are ill equipped to identify solutions. Furthermore we doubt if it is even appropriate to speak about solutions at all in these contexts.
 
