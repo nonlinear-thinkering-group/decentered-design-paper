@@ -49,3 +49,7 @@ Traditional approaches to visualizing complexity quickly devolve into either ove
 We propose a multi-modal system which supports many types of congruous symbolic and diagrammatic representations of systems from many perspectives.
 
 We propose a stigmergetic [^ <https://en.m.wikipedia.org/wiki/Stigmergy>] collaborative model, similar to open-source projects, or wikipedia. Which allows people to collaborate even though they might not be otherwise be inclined to do so due to economic reasons or traditional project scope.
+
+---
+
+{{ `af`: main direction is to push for computational cosmogony, and use this paper to explore the larger ‘ambient space’ that CC starts from? }}
