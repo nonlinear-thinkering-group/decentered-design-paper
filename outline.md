@@ -58,3 +58,4 @@ We propose a stigmergetic [^ <https://en.m.wikipedia.org/wiki/Stigmergy>] collab
     We use this paper to explore the larger, more theoretical 'arguments' about why and how we want to 'meta-design' these computational tools; a kind of general vision in a sense.
 
     We can use the other document to go more from the other direction, discussing more the details of everyday situated practice of computational tools. In practice, we will need a kind of bootstrapping approach: building small everyday tools that will enable bigger tools that will enable us to move in the direction of this larger vision.}}
+{{ `af`: very! }}
