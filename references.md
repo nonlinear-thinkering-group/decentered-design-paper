@@ -20,11 +20,19 @@ https://www.bfi.org/sites/default/files/attachments/pages/PlacesInterveneSystem-
 
 * gIBIS
 
-* Design Methods
+* Designerly ways of knowing
+http://oro.open.ac.uk/3281/1/Designerly-_DisciplinevScience.pdf
+
+* Design Methods movement
 https://en.wikipedia.org/wiki/Design_methods
 
 * As we may think, vanavar bush
 https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
+
+* WHY FEW ORGANIZATIONS ADOPT SYSTEMS THINKING
+http://ackoffcenter.blogs.com/ackoff_center_weblog/files/Why_few_aopt_ST.pdf
+
+* Michael J. Radzicki and Robert A. Taylor (2008). "Origin of System Dynamics: Jay W. Forrester and the History of System Dynamics". In: U.S. Department of Energy's Introduction to System Dynamics. Retrieved 23 October 2008.
 
 * Metadesign
 https://en.wikipedia.org/wiki/Metadesign

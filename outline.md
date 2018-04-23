@@ -2,65 +2,61 @@
 
 — Russell L. Ackoff
 
+# hyper-mapping the global mess
 
-# Introduction
+* We suggest a decentralised, collaborative environment for mapping the gobal, interconnected problems called "the mess"
+    * The situation is a "global mess" and we need tools to deal with it
+        * Design is situated, climate change is not
+            * Plans and situated actions
+        * Design is intentional, side effects are not
+            * Teleology v.s. Unintentional side-effects
+            * Heinz von Foerster (cybernetics)
+        * Design is economic, messes are ecologic
+        * Halpern: Communicative Objectivity
 
-The rise of a new class of anthropogenic environmental problems such as climate change has been characterised by kittler et al as "super wicked problems" [^1], an extension of the concept of "wicked problems" [^ <https://en.m.wikipedia.org/wiki/Wicked_problem>] first proposed by rittel et. al in ...
+    * Mapping is an essential part of dealing with wicked problems and messes
+        * Design thinking, uses mapping as a way of "problem framing"
+        * Systems thinking, too has it's notation systems including dynamo, and it's diagrams
 
-We argue that even this hyperbole is not enough, since climate change is not at all an isolated issue, and there are many interrelated wicked problems including: planetary overshoot[^3], mass extinction, poverty, migrant crisis and the antibiotic resistance crisis[^4] and many more. Following Ackoff, we could call this global, interconnected system of problems "the mess".
+    * The design methods movement is related heavily to computer aided design/hypertext systems
+        * Rittel proposes IBIS
+        * Alexander proposes a pattern language
+        * Ted nelson, Intertwingluarity
+        * Douglas engelbart
+        * OLAP & excell sheets
+        * The mangle of software development
+
+    * The research proposes a collaborative hypertext information system
+        * That allows for informal and formal input, that can evolve in time
+        * That allows for multiple incompatible persectives
+        * That allows for detanglement of (hairy balls of mud visualizations)
+        * That is as much programming as it is sketching
+
+
+The rise of a new class of anthropogenic environmental problems such as climate change has been characterised by kittler et al as super wicked problems[^1], an extension of the concept of "wicked problems" [^ <https://en.m.wikipedia.org/wiki/Wicked_problem>] first proposed by rittel et. al in ...
+
+We argue that even this hyperbole is not enough, since climate change is not at all an isolated issue, and there are many interrelated wicked problems including: planetary overshoot[^3], mass extinction, poverty, migrant crisis and the antibiotic resistance crisis[^4] and many more. Following Ackoff, we could call this global, interconnected system of problems "the global mess".
+
+While design thinking has the unique potential to address wicked problems in a solution-focused way, Wood[^5] argues that: "...designers are trained to operate as subordinate players within the larger economic system, they are part of the problem, rather than the solution. For example, worthy palliatives and incremental changes, such as electric cars and biofuels will not save us. We need to re-think design from scratch..."
+
+Systems thinking seems to befal a similar fate
+
+Most policy approaches to wicked problems are driving us *away from* what we don't want, rather than *towards* what we do want. [Ackoff]
 
 We argue that traditional analytic approaches to 'problem solving' fail due to overwhelming complexity and emergent effects. It seems to us that we are ill-equiped, both conceptually and practically, to deal with this meta-problem, if it can even be characterised as such.
-
 
 Our research can be seen as an attempt to "design design", or metadesign.
 
 * Firstly, we attempt to define a new decentered form of collaborative design.
-
 * Secondly, we attempt to design the technical, social (and economic?) infrastructures which will enable such a form of design to emerge.
 
+Designers have long used different forams of "mapping" in order to get a sense of a problem.
 
+Equally, Systems thinking has it's own, more formal diagrammatic representations.
+{{During the late 1950s and early 1960s, Forrester and a team of graduate students moved the emerging field of system dynamics from the hand-simulation stage to the formal computer modeling stage. Richard Bennett created the first system dynamics computer modeling language called SIMPLE (Simulation of Industrial Management Problems with Lots of Equations) in the spring of 1958. In 1959, Phyllis Fox and Alexander Pugh wrote the first version of DYNAMO (DYNAmic MOdels), an improved version of SIMPLE, and the system dynamics language became the industry standard for over thirty years. Forrester published the first, and still classic, book in the field titled Industrial Dynamics in 1961}}
 
+These methods are rarely used congrously though,
 
-{{More recently, some efforts have been made to systematize Metadesign as a structured creative process, such as Fischer's and Giaccardi's and Caio Vassão's academic works, among several others, based on a much wider reference frame, ranging from post-structuralist philosophy, Neil Postman's media ecology, Christopher Alexander's pattern languages and deep ecology.}}
-
-# De-centered design
-
-While design and systems thinking have the potential to manage change at the paradigmatic scale,  Wood[^5] argues that: "designers are trained operate as subordinate players within the larger economic system, they are part of the problem, rather than the solution. For example, worthy palliatives and incremental changes, such as electric cars and biofuels will not save us. We need to re-think design from scratch because designers are not yet trained to work at the level of lifestyle.". Designers should be commissioned to work at a higher level of engagement. Paradigm change requires radical thinking. (Meadows)[^6]
-
-
-
-These echo what John Dewey (1939) and John Chris Jones (1998) have described as ‘creative democracy’. Similar sentiments emerged in the ‘Creative Commons’ and ‘Open Design’ movements that offer new potential for social integration, and other benefits.
-
-
-Design has always been a matter of perspective. This perhaps explains the popularity of the "..-centered design" naming scheme. Since the initial proposal of the term "user-centered design" [^ <https://en.m.wikipedia.org/wiki/User-centered_design>] by norman, and the subsequent emergence of "human-centered design" [^ <https://en.m.wikipedia.org/wiki/Human-centered_design>] there has been {{ IDEO? }}  and ..., to name a few. Particularly the notion of human-centered design, with it's positivist humanism, although extremely popular, is obviously "anthropocentric" in it's thinking. Super wicked problems will require us to deal with the fact that there are many types of subjectivity, some of which may be non-human [^ <https://tuinvanmachines.hetnieuweinstituut.nl/en/stack-and-posthuman-user-interview-benjamin-bratton>]. This is why we propose a shift away from any kind of "centrism", towards what we call decentered design.
-
-The main properties of super wicked problems are:
-
-* Time is running out
-* No central authority.
-* Those seeking to solve super wicked problems are also causing it. For example the people who advocate for reduced carbon emission, still emit carbon themselves. The causal chain is complex and situated at different levels of scale, within different types of system.
-* Policies discount the future rationality
-
-This is why:
-
-* Decentered design requires what one could call "Ambient Perspective". Not top-down, nor bottom up. But distributed like a rhizome.
-
-* Decentered design requires us to stop "object oriented" ways of modeling in favour of "subject orientedness”. {{ could not find any ref }}
-
-* Decentered design requires us to stop Systems & Components ways of modeling in favour of Wholes & Holons [^ <https://en.m.wikipedia.org/wiki/Holon_(philosophy)>].
-
-* Decentered design breaks down the notion of "project-scope", and the notion of "side-effects".
-
-* Decentered design operates on many levels of scale, time, and complexity. {{ i remember of a reference for this, will look it up }}
-
-* Emergent properties, system boundries
-
-* Design is situated, climate change is not
-> Plans and situated actions
-
-* Design is intentional, side effects are not
-> Teleology
-> Heinz fvon Foerster (cybernetics)
 
 # Techno-social infrastructures
 
@@ -70,11 +66,17 @@ The history of hypertext is complicated, and we argue that current systems only 
 
 We position our research in line with what one could call the "tools for thinking tradition" which includes among others, douglas engelbart and ted nelson.
 
-Traditional approaches to visualizing complexity quickly devolve into either oversimplification, or what we could call "hairy ball of mud" visualizations, which do not provide any further insight.
+Traditional approaches to visualizing complexity quickly devolve into either oversimplification, or what could be called "hairy ball of mud" visualizations, which do not provide any further insight.
 
 We propose a multi-modal system which supports many types of congruous symbolic and diagrammatic representations of systems from many perspectives.
 
 We propose a stigmergetic [^ <https://en.m.wikipedia.org/wiki/Stigmergy>] collaborative model, similar to open-source projects, or wikipedia. Which allows people to collaborate even though they might not be otherwise be inclined to do so due to economic reasons or traditional project scope.
+
+Furthermore, the articles published in our usual journals should be required to answer
+the “so what” question at the end of each submission.  The answer to this question
+should be an explicit statement of how the author intends to affect the behavior or
+thinking of the reader.   No article should be published without such an appendage.
+
 
 ---
 {{ `af`: main direction is to push for computational cosmogony, and use this paper to explore the larger ‘ambient space’ that CC starts from? }}
