@@ -1,8 +1,15 @@
+"We have also come to realize that no problem ever exists in complete isolation. Every problem interacts with other problems and is therefore part of a set of interrelated problems, a system of problems I choose to call such a system a mess … Furthermore solutions to most problems produce other problems… a financial problem, a maintenance problem, and conflict among family members for its use."
+
+— Russell L. Ackoff
+
+
 # Introduction
 
-The rise of a new class of anthropogenic environmental problems such as climate change and mass extinction has been characterised by kittler et al as "super wicked problems" , an extension of the concept of "wicked problems" [^ <https://en.m.wikipedia.org/wiki/Wicked_problem>] first proposed by rittel et. al in ...
+The rise of a new class of anthropogenic environmental problems such as climate change has been characterised by kittler et al as "super wicked problems" [^1], an extension of the concept of "wicked problems" [^ <https://en.m.wikipedia.org/wiki/Wicked_problem>] first proposed by rittel et. al in ...
 
-It seems clear to us that in these cases traditional approaches to problem solving are failing, and are ill equipped to identify solutions. Furthermore we doubt if it is even appropriate to speak about solutions at all in these contexts.
+We argue that even this hyperbole is not enough, since climate change is not at all an isolated issue, and there are many interrelated super wicked problems including, amongst others: planetary overshoot[3], mass extinction, migrant crisis and the antibiotic resistance crisis[4]. Following Ackoff, we call this system of problems a "mess".
+
+It seems clear to us that we are ill equipped to avoid the occurance of such issues, and that traditional approaches to 'problem solving' are failing.
 
 The research can be seen as consisting of two parts, although they are inherently entangled.
 
@@ -36,6 +43,15 @@ This is why:
 
 * Decentered design operates on many levels of scale, time, and complexity. {{ i remember of a reference for this, will look it up }}
 
+* Emergent properties, system boundries
+
+* Design is situated, climate change is not
+> Plans and situated actions
+
+* Design is intentional, side effects are not
+> Teleology
+> Heinz fvon Foerster (cybernetics)
+
 # Techno-social infrastructures
 
 Rittel, in his discussion of wicked problems proposes a design method known as issue-based information system (IBIS) for handling wicked problems. An approach which he proposed be augmented with a hypertext system.
@@ -51,7 +67,6 @@ We propose a multi-modal system which supports many types of congruous symbolic 
 We propose a stigmergetic [^ <https://en.m.wikipedia.org/wiki/Stigmergy>] collaborative model, similar to open-source projects, or wikipedia. Which allows people to collaborate even though they might not be otherwise be inclined to do so due to economic reasons or traditional project scope.
 
 ---
-
 {{ `af`: main direction is to push for computational cosmogony, and use this paper to explore the larger ‘ambient space’ that CC starts from? }}
 
 {{`mg`: yeah, I would say we move from two directions.
