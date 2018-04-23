@@ -3,13 +3,20 @@ https://www.researchgate.net/profile/Graeme_Auld/publication/251880216_Playing_i
 
 
 [2] Systems, messes and interactive planning. (Russell Ackoff)
+Particularly from page 427: The Self-Control Problem
 https://www.academia.edu/24716002/Systems_messes_and_interactive_planning._Russell_Ackoff_
 
 [3] https://en.wikipedia.org/wiki/Planetary_boundaries
 
-[3] antibiotic resistance crisis
+[4] Antibiotic resistance crisis
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/
 
+[5] A Fractal Framework for Metadesign
+https://metadesigners.org/tiki-download_file.php?fileId=366
+https://en.m.wikipedia.org/wiki/Metadesign
+
+[6] Places  to  Intervene  in  a  System
+https://www.bfi.org/sites/default/files/attachments/pages/PlacesInterveneSystem-Meadows.pdf
 
 * gIBIS
 

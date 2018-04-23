@@ -7,20 +7,30 @@
 
 The rise of a new class of anthropogenic environmental problems such as climate change has been characterised by kittler et al as "super wicked problems" [^1], an extension of the concept of "wicked problems" [^ <https://en.m.wikipedia.org/wiki/Wicked_problem>] first proposed by rittel et. al in ...
 
-We argue that even this hyperbole is not enough, since climate change is not at all an isolated issue, and there are many interrelated super wicked problems including, amongst others: planetary overshoot[3], mass extinction, migrant crisis and the antibiotic resistance crisis[4]. Following Ackoff, we call this system of problems a "mess".
+We argue that even this hyperbole is not enough, since climate change is not at all an isolated issue, and there are many interrelated wicked problems including: planetary overshoot[^3], mass extinction, poverty, migrant crisis and the antibiotic resistance crisis[^4] and many more. Following Ackoff, we could call this global, interconnected system of problems "the mess".
 
-It seems clear to us that we are ill equipped to avoid the occurance of such issues, and that traditional approaches to 'problem solving' are failing.
+We argue that traditional analytic approaches to 'problem solving' fail due to overwhelming complexity and emergent effects. It seems to us that we are ill-equiped, both conceptually and practically, to deal with this meta-problem, if it can even be characterised as such.
 
-The research can be seen as consisting of two parts, although they are inherently entangled.
 
-* Firstly we attempt to define a new form of collaborative design which we call "decentered design".
-* Secondly we attempt to create the technical, social (and economic?) infrastructures which will enable such a form of design to emerge.
+Our research can be seen as an attempt to "design design", or metadesign.
 
-This approach is inspired by the idea of Metadesign [^ <https://en.m.wikipedia.org/wiki/Metadesign>], a design approach to complexity theory and information systems that was first put forward by Andries Van Onck in 1963, but has since been adapted by different authors including "wood"
+* Firstly, we attempt to define a new decentered form of collaborative design.
+
+* Secondly, we attempt to design the technical, social (and economic?) infrastructures which will enable such a form of design to emerge.
+
+
+
 
 {{More recently, some efforts have been made to systematize Metadesign as a structured creative process, such as Fischer's and Giaccardi's and Caio Vassão's academic works, among several others, based on a much wider reference frame, ranging from post-structuralist philosophy, Neil Postman's media ecology, Christopher Alexander's pattern languages and deep ecology.}}
 
 # De-centered design
+
+While design and systems thinking have the potential to manage change at the paradigmatic scale,  Wood[^5] argues that: "designers are trained operate as subordinate players within the larger economic system, they are part of the problem, rather than the solution. For example, worthy palliatives and incremental changes, such as electric cars and biofuels will not save us. We need to re-think design from scratch because designers are not yet trained to work at the level of lifestyle.". Designers should be commissioned to work at a higher level of engagement. Paradigm change requires radical thinking. (Meadows)[^6]
+
+
+
+These echo what John Dewey (1939) and John Chris Jones (1998) have described as ‘creative democracy’. Similar sentiments emerged in the ‘Creative Commons’ and ‘Open Design’ movements that offer new potential for social integration, and other benefits.
+
 
 Design has always been a matter of perspective. This perhaps explains the popularity of the "..-centered design" naming scheme. Since the initial proposal of the term "user-centered design" [^ <https://en.m.wikipedia.org/wiki/User-centered_design>] by norman, and the subsequent emergence of "human-centered design" [^ <https://en.m.wikipedia.org/wiki/Human-centered_design>] there has been {{ IDEO? }}  and ..., to name a few. Particularly the notion of human-centered design, with it's positivist humanism, although extremely popular, is obviously "anthropocentric" in it's thinking. Super wicked problems will require us to deal with the fact that there are many types of subjectivity, some of which may be non-human [^ <https://tuinvanmachines.hetnieuweinstituut.nl/en/stack-and-posthuman-user-interview-benjamin-bratton>]. This is why we propose a shift away from any kind of "centrism", towards what we call decentered design.
 
