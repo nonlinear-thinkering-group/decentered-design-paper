@@ -99,13 +99,10 @@ We propose a multi-modal system which supports many types of congruous symbolic 
 
 We propose a stigmergetic [^ <https://en.m.wikipedia.org/wiki/Stigmergy>] collaborative model, similar to open-source projects, or wikipedia. Which allows people to collaborate even though they might not be otherwise be inclined to do so due to economic reasons or traditional project scope.
 
-Furthermore, the articles published in our usual journals should be required to answer
-the “so what” question at the end of each submission.  The answer to this question
-should be an explicit statement of how the author intends to affect the behavior or
-thinking of the reader.   No article should be published without such an appendage.
-
+{{ Furthermore, the articles published in our usual journals should be required to answer the “so what” question at the end of each submission. The answer to this question should be an explicit statement of how the author intends to affect the behavior or thinking of the reader. No article should be published without such an appendage. }}{{ what’s this? }}
 
 ---
+
 {{ `af`: main direction is to push for computational cosmogony, and use this paper to explore the larger ‘ambient space’ that CC starts from? }}
 
 {{`mg`: yeah, I would say we move from two directions.
