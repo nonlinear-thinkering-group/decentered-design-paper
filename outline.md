@@ -4,6 +4,33 @@
 
 # hyper-mapping the global mess
 
+In this proposal, we attempt to develop a decentralised, collaborative 'systems-cartography' tool. The purpose of this tool is to build global shared understanding of interrelated wicked problems called 'messes'.
+
+The rise of a new class of anthropogenic environmental problems such as climate change has been characterised by kittler et.al [^1] as 'super wicked problems', an extension of the concept of 'wicked problems' first proposed by rittel et. al in. However, climate change is not at all an isolated issue, and it is surrounded by many interrelated wicked problems including: planetary overshoot[^3], mass extinction, poverty, migration, resource depletion, the antibiotic resistance crisis[^4], to name but a few. Following Ackoff, we could call this global, interconnected system of problems 'a mess'.
+
+While design thinking has the unique potential to address wicked problems in a solution-focused way, Wood[^5] argues that: "...designers are trained to operate as subordinate players within the larger economic system, they are part of the problem, rather than the solution. For example, worthy palliatives and incremental changes, such as electric cars and biofuels will not save us. We need to re-think design from scratch..."
+
+We argue that traditional design methods are insufficient for dealing with 'messes' due to overwhelming complexity and emergent effects.
+
+We define a few properties of 'messes'
+    * design is intentional, 'messes' arrise non-intentionally
+    * design is framing, 'messes' are scopeless
+    * design is semiosis 'messes' are subjectivly incomplete
+    * design is situated 'messes' are ambient
+
+
+Both design thinking and systems thinking have a tradition of mapping the problem space. Design has it's more informal processes of context-mapping and ...
+Similarly Systems thinking has long relied on a more formal approach and diagrammatic notation systems. On top of that, systems dynamics has develope sybolic notations (i.e. programming languages suh as dynamo in order to run computer simulations.
+
+The design methods movement has a parelell with so-called hypertext systems. Allready Rittel, in his proposal of IBIS. Similarly, Alexander's "a pattern language" has internal references, and could be said to have the structure of a hypertext document. This later inspired the creation of the first wiki(source).
+Hypertext pioneers such as Ted Nelson described the structure of knowledge as being 'intertwingular', mirroring the structure of 'messes'.
+Douglas Engelbart developed his NLS (oNLine System), as a "strategy and means for coping with complex problems" (http://www.dougengelbart.org/colloquium/colloquium.html)
+Most of these pioneers argue that, allthough computers have now become commonplace, their power as "tools for thinking" remains underutilised. (sources)
+
+In this light, we attempt to define a collaborative, computational hyper-mapping environment.
+
+
+
 * We suggest a decentralised, collaborative environment for mapping the gobal, interconnected problems called "the mess"
     * The situation is a "global mess" and we need tools to deal with it
         * Design is situated, climate change is not
@@ -26,18 +53,18 @@
         * OLAP & excell sheets
         * The mangle of software development
 
+
     * The research proposes a collaborative hypertext information system
         * That allows for informal and formal input, that can evolve in time
         * That allows for multiple incompatible persectives
         * That allows for detanglement of (hairy balls of mud visualizations)
         * That is as much programming as it is sketching
+        * Boundry logic
 
 
-The rise of a new class of anthropogenic environmental problems such as climate change has been characterised by kittler et al as super wicked problems[^1], an extension of the concept of "wicked problems" [^ <https://en.m.wikipedia.org/wiki/Wicked_problem>] first proposed by rittel et. al in ...
 
-We argue that even this hyperbole is not enough, since climate change is not at all an isolated issue, and there are many interrelated wicked problems including: planetary overshoot[^3], mass extinction, poverty, migrant crisis and the antibiotic resistance crisis[^4] and many more. Following Ackoff, we could call this global, interconnected system of problems "the global mess".
 
-While design thinking has the unique potential to address wicked problems in a solution-focused way, Wood[^5] argues that: "...designers are trained to operate as subordinate players within the larger economic system, they are part of the problem, rather than the solution. For example, worthy palliatives and incremental changes, such as electric cars and biofuels will not save us. We need to re-think design from scratch..."
+
 
 Systems thinking seems to befal a similar fate
 
