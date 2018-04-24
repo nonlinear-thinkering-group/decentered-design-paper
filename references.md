@@ -18,6 +18,9 @@ https://en.m.wikipedia.org/wiki/Metadesign
 [6] Places  to  Intervene  in  a  System
 https://www.bfi.org/sites/default/files/attachments/pages/PlacesInterveneSystem-Meadows.pdf
 
+* Abductive Thinking  and Sensemaking:  The Drivers of Design Synthesis Jon Kolko
+http://writing.dawsoncollege.qc.ca/wp-content/uploads/2011/09/abductivethinkingdesignsynthesisKolko.pdf
+
 * gIBIS
 
 * Designerly ways of knowing
@@ -33,6 +36,8 @@ https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
 http://ackoffcenter.blogs.com/ackoff_center_weblog/files/Why_few_aopt_ST.pdf
 
 * Michael J. Radzicki and Robert A. Taylor (2008). "Origin of System Dynamics: Jay W. Forrester and the History of System Dynamics". In: U.S. Department of Energy's Introduction to System Dynamics. Retrieved 23 October 2008.
+
+* http://www.papert.org/articles/EpistemologicalPluralism.html
 
 * Metadesign
 https://en.wikipedia.org/wiki/Metadesign
