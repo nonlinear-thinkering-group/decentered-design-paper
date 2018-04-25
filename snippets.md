@@ -1,4 +1,13 @@
+In this research we attempt to define the properties of 'messes', and how our approaches to these issues could be improved.
 
+- design is intentional, 'messes' arrise non-intentionally
+  - {{talk about unintentional side-effects}}
+- design is about framing, 'messes' are scopeless
+  - {{talk about how project scope is the root of all evil}}
+  - design is situated 'messes' are ambient
+  - design is economical, 'messes' are ecological
+- 'messes' are epistemological multiplicities [6]
+  - {{talk about nils bohrs complementarity principle}}
 
 Systems thinking seems to befal a similar fate
 
