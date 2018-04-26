@@ -33,6 +33,6 @@ refs, not yet in order:
 
 * The Responsible Object: A History of Design Ideology for the Future
 
-* Epistemological Pluralism and the RevaluationThe Responsible Object: A History of Design Ideology for the Future  of the Concrete [http://www.papert.org/articles/EpistemologicalPluralism.html](http://www.papert.org/articles/EpistemologicalPluralism.html)
+* Epistemological Pluralism and the Revaluation of the Concrete [http://www.papert.org/articles/EpistemologicalPluralism.html](http://www.papert.org/articles/EpistemologicalPluralism.html)
 
 * Abductive Thinking and Sensemaking: The Drivers of Design Synthesis
