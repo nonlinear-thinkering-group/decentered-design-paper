@@ -12,10 +12,15 @@ In this research we attempt to develop socio-technical infrastructures for build
 refs, not yet in order:
 
 (Russel 1974) Systems, messes and interactive planning.
+
 (Meadows 1997) Places to Intervene in a System
+
 (Wood 2008) A Fractal Framework for Metadesign ([https://metadesigners.org/tiki-download_file.php](https://metadesigners.org/tiki-download_file.php?fileId=366) []()[fileId=366](https://metadesigners.org/tiki-download_file.php?fileId=366)[https://en.m.wikipedia.org/wiki/Metadesign](https://en.m.wikipedia.org/wiki/Metadesign))
+
 (Fischer & Giaccardi 2004) Meta-Design: A Framework for the Future of End-User Development
+
 (Morton 2016) Dark Ecology - For a Logic of Future Coexistence
+
 (Dubberly) Rith, C and Dubberly, H, "Why Horst W J Rittel Matters"
 
 (Engelbart) ([http://www.dougengelbart.org/colloquium/colloquium.html](http://www.dougengelbart.org/colloquium/colloquium.html))
